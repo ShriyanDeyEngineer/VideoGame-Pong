@@ -4,6 +4,11 @@ Author: Shriyan Dey
 Link to My GitHub Profile: [GitHub Profile](https://github.com/ShriyanDeyEngineer)
 
 
+Project Creation Date: June 7, 2025.
+
+Project Completion Date: June 23, 2025.
+
+
 Purpose of this project: Made to develop a coding portfolio and to have fun
 
 
