@@ -1,6 +1,10 @@
 Author: Shriyan Dey
-Purpose of this project: Made to develop a coding portfolio and to have fun
 
+
+Link to My GitHub Profile: [GitHub Profile]([https://github.com/YOUR_USERNAME](https://github.com/ShriyanDeyEngineer))
+
+
+Purpose of this project: Made to develop a coding portfolio and to have fun
 
 
 Project Description:
