@@ -34,12 +34,12 @@ For macOS:
    - Right-click the app → Click **Open** → Confirm in the popup.
    - After the first time, it will open normally.
    - Otherwise, after the file has downloaded, open terminal (command + space -> type "terminal" and then hit Return/Enter) then copy, paste, and enter the next 2 lines below all at once:
-     xattr -cr ~/Downloads/RunPONG.app
-     open ~/Downloads/RunPONG.app
+     - xattr -cr ~/Downloads/RunPONG.app
+     - open ~/Downloads/RunPONG.app
 
 For Java Users (Any OS):
 1. Ensure you have [Java 17+](https://adoptopenjdk.net/) installed.
 2. Go to the releases for this repository and click on "RunPONG.jar" and let it download.
 3. Open a terminal then copy, paste, and enter the next 2 lines below all at once:
-cd ~/Downloads
-java -jar RunPONG.jar
+- cd ~/Downloads
+- java -jar RunPONG.jar
