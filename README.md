@@ -35,6 +35,8 @@ Features:
 - Pause/Resume game feature
 - Clean UI
 
+Note: If the game does not start, click the pause button and then the resume button. Otherwise, restart the game.
+
 ---
 
 How to Download, Install, and Run It:
