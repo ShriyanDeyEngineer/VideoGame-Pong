@@ -8,6 +8,8 @@ Project Description
 A classic PONG game remake built in Java to practice and demonstrate my programming skills. Developed in Eclipse, this project includes both .jar and macOS .app versions use.
 All the credits and reflections can be found in the commit for this repository. In the commit, click "src", then click "Credits_Learnings_Reflections". Alternatively, you can download and run the game instead and open the credits there on the main menu.
 
+---
+
 
 LICENSE
 This project is released under the MIT License, which allows free use, modification, and distribution with proper credit.
