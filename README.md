@@ -12,6 +12,7 @@ All the credits and reflections can be found in the commit for this repository. 
 
 
 LICENSE
+
 This project is released under the MIT License, which allows free use, modification, and distribution with proper credit.
 
 
