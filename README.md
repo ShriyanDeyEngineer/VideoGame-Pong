@@ -4,20 +4,6 @@ Author: Shriyan Dey
 Link to My GitHub Profile: [GitHub Profile](https://github.com/ShriyanDeyEngineer)
 
 
-
----
-
-### About the Author
-
-**Shriyan Dey**  
-Computer Engineering student at the University of Minnesota  
-[GitHub Profile](https://github.com/ShriyanDeyEngineer)  
-
-
-
-
-
-
 Purpose of this project: Made to develop a coding portfolio and to have fun
 
 
