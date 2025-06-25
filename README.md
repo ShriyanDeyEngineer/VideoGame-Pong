@@ -11,7 +11,7 @@ Link to My GitHub Profile: [GitHub Profile]([https://github.com/YOUR_USERNAME](h
 
 **Shriyan Dey**  
 Computer Engineering student at the University of Minnesota  
-[GitHub Profile](https://github.com/YOUR_USERNAME)  
+[GitHub Profile](https://github.com/ShriyanDeyEngineer)  
 [Personal Website](https://yourwebsite.com) *(optional)*
 
 
