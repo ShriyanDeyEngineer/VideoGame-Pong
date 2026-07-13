@@ -17,16 +17,16 @@ public class Sounds
     boolean canSwitchSongs = false;
     
     //String labels for the sound tracks which are used for displaying to the user what song is currently playing
-    ArrayList<String> SoundTracks = new ArrayList<>(Arrays.asList("Shriyan Dey - Ascendance", "Shriyan Dey (Riffusion AI) - Finale", "Shriyan Dey (Riffusion AI) - Vivid Anthem", "Shriyan Dey (Riffusion AI) - Retro Recall", "Shriyan Dey (Riffusion AI) - Pulse"));
+    ArrayList<String> SoundTracks = new ArrayList<>(Arrays.asList("Shriyan Dey - Ascendance", "Shriyan Dey - Ascendance", "Shriyan Dey - Ascendance", "Shriyan Dey - Ascendance", "Shriyan Dey - Ascendance"));
     
     public Sounds() 
     {
     	//Sound tracks
     	SoundTrack_URLs[0] = getClass().getResource("/PONG/Shriyan Dey - Ascendance.wav");
-    	SoundTrack_URLs[1] = getClass().getResource("/PONG/Finale.wav");
-    	SoundTrack_URLs[2] = getClass().getResource("/PONG/Vivid Anthem.wav");
-    	SoundTrack_URLs[3] = getClass().getResource("/PONG/Retro Recall.wav");
-    	SoundTrack_URLs[4] = getClass().getResource("/PONG/Pulse.wav");
+    	SoundTrack_URLs[1] = getClass().getResource("/PONG/Shriyan Dey - Ascendance.wav");
+    	SoundTrack_URLs[2] = getClass().getResource("/PONG/Shriyan Dey - Ascendance.wav");
+    	SoundTrack_URLs[3] = getClass().getResource("/PONG/Shriyan Dey - Ascendance.wav");
+    	SoundTrack_URLs[4] = getClass().getResource("/PONG/Shriyan Dey - Ascendance.wav");
         
         //Sound effects
     	SFX_URLs[0] = getClass().getResource("/PONG/Ball hits paddle SFX.wav");
