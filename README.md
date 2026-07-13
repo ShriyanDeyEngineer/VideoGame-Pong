@@ -30,7 +30,7 @@ This project is released under the MIT License, which allows free use, modificat
 Features:
 
 - Single (Left/Right arrow keys to move the paddle) and 2-player (2 people use same device but different key binds: W/S keys vs. Up/Down arrow keys) modes 
-- Sound effects and custom soundtrack made in garage band along with other sound tracks that were generated via Riffusion AI   
+- Soundtrack and SFX   
 - Settings and Credits screens  
 - Pause/Resume game feature
 - Clean UI
